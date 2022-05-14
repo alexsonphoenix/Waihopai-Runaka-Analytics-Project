@@ -4,4 +4,4 @@ To enable the Runaka to make better decisions and  be more accountable and trans
 
 ![persona mapping](/Portfolio_project/PersonaDefinition.png?raw=true "Employee Data title")
 
-<img src="/Portfolio_project/PersonaDefinition.png", width=50%, height=auto>
+<img src="/Portfolio_project/PersonaDefinition.png" width=50% height=auto>
