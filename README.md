@@ -50,7 +50,7 @@ would be used in practice. Below is a animated gif showing the persona mapping
 
 
 <p align="center">
-  <img src="Portfolio_project/PersonaMapping.gif" width=100% height=auto>
+  <img src="Portfolio_project/PersonaMapping.gif">
   <figcaption align="center">Figure 2: Persona Mapping</figcaption>
 </p>
 
@@ -65,7 +65,7 @@ different views as you drill down into the data. This enables the end users
 to look at the data and interrogate it
 
 <p align="center">
-  <img src="Portfolio_project/DashboardStructure.png" width=100% height=auto>
+  <img src="Portfolio_project/DashboardStructure.png">
   <figcaption align="center">Figure 3: Dashboard Structure</figcaption>
 </p>
 
@@ -95,7 +95,7 @@ Finally, I deliver the final performance dashboard to the end users at the Runak
 *Notice: all the data in this dashboard is fake data, the dashboard is just a working prototype.*
 
 <p align="center">
-  <img src="Portfolio_project/DashboardShowcase.gif" width=100% height=auto>
+  <img src="Portfolio_project/DashboardShowcase.gif">
   <figcaption align="center">Figure 4: Dashboard Showcase</figcaption>
 </p>
 
